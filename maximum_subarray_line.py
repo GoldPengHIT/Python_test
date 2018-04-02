@@ -1,8 +1,8 @@
 
 
 def maxinum_line(A,left,right):
-    l=-1
-    r=-1
+    l=left
+    r=right
     temp =0
     summax=float("-inf")
     for i in range(left,right):
