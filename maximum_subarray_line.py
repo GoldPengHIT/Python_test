@@ -1,5 +1,4 @@
 
-
 def maxinum_line(A,left,right):
     l=left
     r=right
